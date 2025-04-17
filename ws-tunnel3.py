@@ -7,7 +7,7 @@ DEFAULT_HOST = '127.0.0.1'
 DEFAULT_PORT = 109
 PASS = ''
 RESPONSE = (
-    'HTTP/1.1 101 <b><font color="green"> 873ETH x TeamV24 Switching Protocols </font></b>\r\n'
+    'HTTP/1.1 101 <b><font color="green"> 973ETH x TeamV24 Switching Protocols </font></b>\r\n'
     'Content-Length: 104857600000\r\n\r\n'
 )
 
